@@ -13,5 +13,7 @@ pip3 install -r requirements.txt
 python3 main.py start
 ```
 4. Connect the app with livekit hosted UI and Test the app:
+
    ↳ https://agents-playground.livekit.io/
-5. Starred this repo 🙃
+   
+6. Starred this repo 🙃
