@@ -3,6 +3,7 @@ Your voice assistant for notes taking
 
 ## To Run
 
+First of all, setup the env file with your credentials and rename the `.example.env` -> `.env`
 1. Create and activate venv -> Follow this repo `https://github.com/SaadARazzaq/venvpy`
 2. Install requirements.txt:
 ```bash
